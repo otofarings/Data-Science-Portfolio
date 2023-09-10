@@ -16,13 +16,14 @@
 
 ---
 
-
-
 ## Author
 
 <a href="https://github.com/otofarings" rel="some text">![Foo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 <a href="https://t.me/otofarings" rel="some text">![Foo](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="https://linkedin.com/in/anton-abdulgalimov-b264a3203" rel="some text">![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
+---
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![GitHub latest commit](https://badgen.net/github/last-commit/otofarings/Data-Science-Portfolio)](https://GitHub.com/otofarings/Data-Science-Portfolio/commit/)
+[![GitHub stars](https://badgen.net/github/stars/otofarings/Data-Science-Portfolio)](https://GitHub.com/otofarings/Data-Science-Portfolio/stargazers/)
