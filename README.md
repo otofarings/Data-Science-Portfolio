@@ -13,7 +13,7 @@
 ---
 
 - [Audio Compression using PCA](https://github.com/otofarings/Data-Science-Portfolio/tree/main/PCA/Audio%20Compression%20using%20PCA)
-- [RMSProp method implementation](https://github.com/otofarings/Data-Science-Portfolio/tree/main/Optimizer/RMSProp%20method%20implementation.ipynb)
+- [RMSProp method implementation](https://github.com/otofarings/Data-Science-Portfolio/tree/main/Optimizer/RMSProp.ipynb)
 
 ---
 
