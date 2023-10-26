@@ -19,6 +19,7 @@
 
 ## Kaggle Competitions
 
+- [Spaceship Titanic](https://github.com/otofarings/Data-Science-Portfolio/blob/main/Kaggle/spaceship-titanic.ipynb)
 - [Advanced-DLC-Spring-2021](https://github.com/otofarings/Data-Science-Portfolio/blob/main/Kaggle/kaggle_telecom_churn.ipynb)
 
 ---
