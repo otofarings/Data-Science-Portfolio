@@ -2,7 +2,7 @@
 
 ![Repo Logo](https://images.paramount.tech/uri/mgid:arc:imageassetref:shared.southpark.nordics:f828643f-8e52-4037-84e5-c672bef9fcbe?quality=0.7&gen=ntrn&legacyStatusCode=true)
 
-🇬🇧 The **Data-Science-Portfolio** repository is a collection of interesting research projects created for learning and practice in the field of data analysis, machine learning and deep learning.
+🇬🇧 The **Data-Science-Portfolio** repository is a collection of interesting research projects created for learning and practice in the field of data analysis, machine and deep learning.
 
 🇷🇺 Репозиторий **Data-Science-Portfolio** представляет собой коллекцию интересных исследовательских проектов, созданных для обучения и практики в области анализа данных, машинного и глубокого обучения.
 
