@@ -17,6 +17,12 @@
 
 ---
 
+## Kaggle Competitions
+
+- [Advanced-DLC-Spring-2021](https://github.com/otofarings/Data-Science-Portfolio/blob/main/Kaggle/kaggle_telecom_churn.ipynb)
+
+---
+
 ## Author
 
 <a href="https://github.com/otofarings" rel="some text">![Foo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
