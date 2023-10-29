@@ -27,6 +27,7 @@
 ## Author
 
 <a href="https://github.com/otofarings" rel="some text">![Foo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://www.kaggle.com/otofarings" rel="some text">![Foo](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)</a>
 <a href="https://t.me/otofarings" rel="some text">![Foo](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="https://linkedin.com/in/anton-abdulgalimov-b264a3203" rel="some text">![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
