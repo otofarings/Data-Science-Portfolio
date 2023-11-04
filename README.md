@@ -20,6 +20,7 @@
 
 ### [DLC](https://github.com/otofarings/Data-Science-Portfolio/tree/main/DLC)
 
+- [Linear Models](https://github.com/otofarings/Data-Science-Portfolio/tree/main/DLC/Linear%20Models/Linear%20Models.ipynb)
 - [Dense & Convolutional NN](https://github.com/otofarings/Data-Science-Portfolio/tree/main/DLC/Dense%20&%20Convolutional%20NN/Dense%20&%20Convolutional%20NN.ipynb)
 
 ---
