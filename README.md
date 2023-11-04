@@ -12,13 +12,13 @@
 
 ---
 
-### SberUniversity
+### [SberUniversity](https://github.com/otofarings/Data-Science-Portfolio/tree/main/SberUniversity)
 
 - [Audio Compression using PCA](https://github.com/otofarings/Data-Science-Portfolio/tree/main/SberUniversity/Audio%20Compression%20using%20PCA)
 - [RMSProp method implementation](https://github.com/otofarings/Data-Science-Portfolio/tree/main/SberUniversity/Optimizer/RMSProp.ipynb)
 
 
-### DLC
+### [DLC](https://github.com/otofarings/Data-Science-Portfolio/tree/main/DLC)
 
 - [Dense & Convolutional NN](https://github.com/otofarings/Data-Science-Portfolio/tree/main/DLC/Dense%20&%20Convolutional%20NN/Dense%20&%20Convolutional%20NN.ipynb)
 
