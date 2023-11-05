@@ -17,8 +17,8 @@
 - [Audio Compression using PCA](https://github.com/otofarings/Data-Science-Portfolio/tree/main/SberUniversity/Audio%20Compression%20using%20PCA)
 - [Regression & Classification](https://github.com/otofarings/Data-Science-Portfolio/tree/main/SberUniversity/Regression%20&%20Classification/Regression%20&%20Classification.ipynb)
 - [RMSProp method implementation](https://github.com/otofarings/Data-Science-Portfolio/tree/main/SberUniversity/Optimizer/RMSProp.ipynb)
-- [Fully Connected NN.ipynb](https://github.com/otofarings/Data-Science-Portfolio/tree/main/SberUniversity/Computer%20Vision/Fully%20Connected%20NN)
-- [Transfer Learning.ipynb](https://github.com/otofarings/Data-Science-Portfolio/tree/main/SberUniversity/Computer%20Vision/Transfer%20Learning)
+- [Fully Connected NN](https://github.com/otofarings/Data-Science-Portfolio/tree/main/SberUniversity/Computer%20Vision/Fully%20Connected%20NN.ipynb)
+- [Transfer Learning](https://github.com/otofarings/Data-Science-Portfolio/tree/main/SberUniversity/Computer%20Vision/Transfer%20Learning.ipynb)
 
 ### [DLC](https://github.com/otofarings/Data-Science-Portfolio/tree/main/DLC)
 
