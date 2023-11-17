@@ -8,8 +8,8 @@
 **Project description:** This project is a research analysis of an approach to compress audio files using linear transformation through Principal Component Analysis (PCA). By using the PCA algorithm, the dimensionality of audio files is reduced without significant loss in sound quality.
 
 In the repository, you will find:
-- [Source code](https://github.com/otofarings/Data-Science-Portfolio/blob/main/PCA/Audio%20Compression%20using%20PCA/Audio%20Compression%20using%20PCA.ipynb) of the project with explanatory comments
-- Example [audio file](https://github.com/otofarings/Data-Science-Portfolio/blob/main/PCA/Audio%20Compression%20using%20PCA/data/Beethoven_Violin_Sonata_Op_96_first_movement_bars_1-22.wav) for processing
+- [Source code](https://github.com/otofarings/Data-Science-Portfolio/tree/main/SberUniversity/Audio%20Compression%20using%20PCA/Audio%20Compression%20using%20PCA.ipynb) of the project with explanatory comments
+- Example [audio file](https://github.com/otofarings/Data-Science-Portfolio/blob/main/SberUniversity/Audio%20Compression%20using%20PCA/data/Beethoven_Violin_Sonata_Op_96_first_movement_bars_1-22.wav) for processing
 
 
 #### 🇷🇺 Аудио-сжатие с использованием PCA - это проект, разработанный в рамках обучения в [SberUniversity](https://sberuniversity.online).
@@ -18,7 +18,7 @@ In the repository, you will find:
 
 В репозитории вы найдете:
 - [Исходный код](https://github.com/otofarings/Data-Science-Portfolio/blob/main/PCA/Audio%20Compression%20using%20PCA/Audio%20Compression%20using%20PCA.ipynb) проекта с пояснительными комментариями
-- Пример [аудиофайла](https://github.com/otofarings/Data-Science-Portfolio/blob/main/PCA/Audio%20Compression%20using%20PCA/data/Beethoven_Violin_Sonata_Op_96_first_movement_bars_1-22.wav) для обработки
+- Пример [аудиофайла](https://github.com/otofarings/Data-Science-Portfolio/blob/main/SberUniversity/Audio%20Compression%20using%20PCA/data/Beethoven_Violin_Sonata_Op_96_first_movement_bars_1-22.wav) для обработки
 
 ---
 

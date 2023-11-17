@@ -19,6 +19,7 @@
 - [RMSProp method implementation](https://github.com/otofarings/Data-Science-Portfolio/tree/main/SberUniversity/Optimizer/RMSProp.ipynb)
 - [Fully Connected NN](https://github.com/otofarings/Data-Science-Portfolio/tree/main/SberUniversity/Computer%20Vision/Fully%20Connected%20NN.ipynb)
 - [Transfer Learning](https://github.com/otofarings/Data-Science-Portfolio/tree/main/SberUniversity/Computer%20Vision/Transfer%20Learning.ipynb)
+- [NLP](https://github.com/otofarings/Data-Science-Portfolio/tree/main/SberUniversity/NLP/NLP.ipynb)
 
 ### [DLS](https://github.com/otofarings/Data-Science-Portfolio/tree/main/DLS)
 
